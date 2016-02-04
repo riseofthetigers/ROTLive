@@ -1,4 +1,4 @@
-# conky_crickinfo
+# Cricinfo with Conky
 Crickinfo with Conky dashboard (Live score + Full scroreboard)
 
 This widget can be used to view live score on a particular match you interested.
