@@ -11,3 +11,4 @@ This will list down all live matches payed by Australian team
 ${font}${color2}${execi 30  bash scoreboard.sh <match ID>}
 
 Enjoy live cricket scores
+![cricinfo_conky](https://github.com/uditha-madusanka/conky_crickinfo/blob/master/crickinfo.png)
