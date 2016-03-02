@@ -1,3 +1,5 @@
+# This Score board is borrowed from uditha-madusanka's repo.
+
 # Cricinfo with Conky
 Crickinfo with Conky dashboard (Live score + Full scroreboard)
 
